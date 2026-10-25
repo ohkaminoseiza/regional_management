@@ -23,3 +23,4 @@
 - 2026-05-31 地域経営データ基盤の転換——RAIDA-AI公開と「地域未来戦略本部」への運営移管 — summaries/2026/2026-05-31-resas-raida-regional-data.md
 - 2026-05-31 地域おこし協力隊の任期最大5年延長——地場産業承継と「定住」型地域担い手政策の転換 — summaries/2026/2026-05-31-chiiki-okoshi-5years.md
 - 2026-05-31 「地域価値を共創する不動産業」の制度化——第4回アワード大賞・南砺市アキヤラボに見る空き家起業モデルの政策的意義 — summaries/2026/2026-05-31-akiyalab-fudosan-chiiki-value.md
+- 2026-10-25 「Project PLATEAU」2027年度に向けたRFI#2意見募集開始——都市デジタルツインが「整備期」から「実装・活用期」へ転換する構造的転換点 — summaries/2026/2026-10-25-plateau-rfi2-urban-digital-twin.md
