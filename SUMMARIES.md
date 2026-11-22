@@ -1,5 +1,6 @@
 # 地域経営ウォッチ — サマリー一覧
 
+- 2026-11-22 都市再生特別措置法改正法施行——「固有魅力維持向上区域」と官民協定が地域経営の制度基盤を更新する — summaries/2026/2026-11-22-toshi-saisei-koyu-miryoku-chiiki-keiei.md
 - 2026-11-15 民間都市再生整備事業計画制度の山岳観光村への適用——小谷村事例が照らす通年型地域経営とストック活用の制度的可能性 — summaries/2026/2026-11-15-otari-resort-minkan-toshi-saisei.md
 - 2026-11-08 「新時代の幹線公共交通ネットワークのあり方に関する検討会」設置——国土軸の再定義が地域経営論に問いかける広域接続性の政策的意味 — summaries/2026/2026-11-08-kansen-kotsumono-kentoukai-chiiki-kotsukiban.md
 - 2026-10-18 「自動車地域旅客運送サービス再構築実施計画」全国初認定——改正地域交通法施行初日に相模原市スクールバス活用型ライドシェアが示す地域資産最適化の論理 — summaries/2026/2026-10-18-jidosha-chiiki-yuso-saikouchiku-nintei.md
